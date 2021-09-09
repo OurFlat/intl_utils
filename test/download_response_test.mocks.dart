@@ -10,7 +10,7 @@ import 'package:mockito/mockito.dart' as _i1;
 // ignore_for_file: comment_references
 // ignore_for_file: unnecessary_parenthesis
 
-class _FakeUint8List extends _i1.Fake implements _i2.Uint8List {}
+class _FakeUint8List extends _i1.Fake {}
 
 /// A class which mocks [Response].
 ///
